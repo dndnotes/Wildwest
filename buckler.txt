@@ -1,0 +1,11 @@
+Jefe's Buckler
+Shield +1
+When a ranged attack misses you, you can make it ricochet off your shield, using your reaction to force the enemy to roll the same attack on an enemy that you can see. Once you use this feature, you can't use it again until you finish a long rest or until an enemy misses you by a margin of 10 or greater.
+
+Calypso's Net
+A net, supposedly woven from Calypso's hair.
+This net has a range of 15/30 ft.
+Special. A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 8 + User's Proficiency + User's Strength Modifier, Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. 
+
+The user can choose to absorb the damage the enemy deals to the net, preventing him from destroying it. He can use this feature a number of times equal to his Constitution modifier per long rest.
+
